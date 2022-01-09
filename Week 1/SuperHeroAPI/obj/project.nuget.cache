@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PzDB1nk4w2ZZYqn059e3rTM1siWtdvvZriiN1owBrRFOhfREBkJJ2jc+xAHNnxrIzpbvK2wSh1jCy1HUnU3IDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Meryem\\Desktop\\Week 1\\Week 1\\SuperHeroAPI\\SuperHeroAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meryem\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Meryem\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Meryem\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Meryem\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Meryem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Meryem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
