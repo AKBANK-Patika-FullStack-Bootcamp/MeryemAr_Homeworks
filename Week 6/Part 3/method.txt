@@ -1,0 +1,5 @@
+mevcut fonksiyonlardan en kullanislisinin for loop oldugunu dusunuyorum
+digerlerinde de farkinda olmadan for loop kullaniyoruz
+reverse/split/join derken 3 tane loop'a almis oluyoruz
+diger en iyisi de reverse fonksiyonu ile olan olabilir ancak o da klasik javascript metodlari iceriyor
+en iyisinin for loop olduguna kanaat getirdim
