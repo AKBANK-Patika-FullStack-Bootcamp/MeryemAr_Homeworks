@@ -1,0 +1,7 @@
+C:\Users\Meryem\source\repos\MutlulukApartmani-Backend\MutlulukApartmani-Backend\obj\Debug\net6.0\MutlulukApartmani-Backend.csproj.AssemblyReference.cache
+C:\Users\Meryem\source\repos\MutlulukApartmani-Backend\MutlulukApartmani-Backend\obj\Debug\net6.0\MutlulukApartmani-Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meryem\source\repos\MutlulukApartmani-Backend\MutlulukApartmani-Backend\obj\Debug\net6.0\MutlulukApartmani-Backend.AssemblyInfoInputs.cache
+C:\Users\Meryem\source\repos\MutlulukApartmani-Backend\MutlulukApartmani-Backend\obj\Debug\net6.0\MutlulukApartmani-Backend.AssemblyInfo.cs
+C:\Users\Meryem\source\repos\MutlulukApartmani-Backend\MutlulukApartmani-Backend\obj\Debug\net6.0\MutlulukApartmani-Backend.csproj.CoreCompileInputs.cache
+C:\Users\Meryem\source\repos\MutlulukApartmani-Backend\MutlulukApartmani-Backend\obj\Debug\net6.0\MutlulukApartmani-Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Meryem\source\repos\MutlulukApartmani-Backend\MutlulukApartmani-Backend\obj\Debug\net6.0\MutlulukApartmani-Backend.MvcApplicationPartsAssemblyInfo.cache

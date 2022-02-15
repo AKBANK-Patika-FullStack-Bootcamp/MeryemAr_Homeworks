@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b9acbc2-62db-4887-89ab-f9ed83e5c6dd": {
+      "ProjectGuid": "7b9acbc2-62db-4887-89ab-f9ed83e5c6dd",
+      "DisplayName": "MutlulukApartmani_Backend",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "2ea3ac13-c6ce-4643-91e9-2c6a9962fed4": {
+      "ProjectGuid": "2ea3ac13-c6ce-4643-91e9-2c6a9962fed4",
+      "DisplayName": "Entities",
+      "ColorIndex": 1
+    },
+    "ff04607b-57d4-49b0-a32c-8cea01aa4e5a": {
+      "ProjectGuid": "ff04607b-57d4-49b0-a32c-8cea01aa4e5a",
+      "DisplayName": "Entities",
+      "ColorIndex": 2
+    },
+    "89ba11c4-1cfb-4100-bd75-379c2aeb836f": {
+      "ProjectGuid": "89ba11c4-1cfb-4100-bd75-379c2aeb836f",
+      "DisplayName": "DAL",
+      "ColorIndex": 3
+    },
+    "19fe33fb-7642-42ac-9c1b-5c4c8002f58d": {
+      "ProjectGuid": "19fe33fb-7642-42ac-9c1b-5c4c8002f58d",
+      "DisplayName": "Entities",
+      "ColorIndex": 4
+    },
+    "01601bb6-c5aa-4a4e-bc9a-75193e6fc1e6": {
+      "ProjectGuid": "01601bb6-c5aa-4a4e-bc9a-75193e6fc1e6",
+      "DisplayName": "Entities",
+      "ColorIndex": 5
+    },
+    "e89894c1-f087-4e2e-8a7d-757935aab1b1": {
+      "ProjectGuid": "e89894c1-f087-4e2e-8a7d-757935aab1b1",
+      "DisplayName": "DAL",
+      "ColorIndex": 6
+    },
+    "17bdb4df-4874-46dd-84fd-eb761b0c206a": {
+      "ProjectGuid": "17bdb4df-4874-46dd-84fd-eb761b0c206a",
+      "DisplayName": "MonitoringService",
+      "ColorIndex": 7
+    },
+    "c4adda46-2781-4324-bb2f-3651c0db04ca": {
+      "ProjectGuid": "c4adda46-2781-4324-bb2f-3651c0db04ca",
+      "DisplayName": "MonitoringService",
+      "ColorIndex": 8
+    },
+    "bc0e2b3a-feb9-4fab-9260-aab560afbc7a": {
+      "ProjectGuid": "bc0e2b3a-feb9-4fab-9260-aab560afbc7a",
+      "DisplayName": "Log",
+      "ColorIndex": 9
+    },
+    "426e8c48-dd88-406d-aed6-a3d01a7e4e97": {
+      "ProjectGuid": "426e8c48-dd88-406d-aed6-a3d01a7e4e97",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 10
+    },
+    "acc9eaf5-1202-4c98-94ac-12d05030c685": {
+      "ProjectGuid": "acc9eaf5-1202-4c98-94ac-12d05030c685",
+      "DisplayName": "MonitoringService",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

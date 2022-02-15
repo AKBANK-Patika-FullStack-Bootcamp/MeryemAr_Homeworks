@@ -1,0 +1,20 @@
+14.02.2022 02:29:17:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 02:30:28:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 02:44:30:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 02:55:26:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 11:18:57:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 11:25:14:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 11:46:28:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 11:48:09:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 11:50:13:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 11:52:17:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 11:53:42:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 11:54:15:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 11:57:11:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 11:57:33:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 11:58:09:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 12:00:03:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 12:00:24:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 12:01:50:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 12:02:09:HATA An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 13:47:10:HATA Value cannot be null. (Parameter 'entity')
